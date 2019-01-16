@@ -2,7 +2,7 @@
 
 Licence L3 classique, MIAGE, Paris-Dauphine, TD n° 2
 
-L’https://www.ent.dauphine.fr/annuaire/index.php?param0=fiche&param1=ocailloux[enseignant].
+L’link:https://www.ent.dauphine.fr/annuaire/index.php?param0=fiche&param1=ocailloux[enseignant].
 
 == Instructions de remise
 Ces instructions de remise remplacent celles contenues dans l’énoncé. Il ne faut donc pas m’envoyer vos dossiers par e-mail ni m’en remettre des copies papier.
@@ -11,7 +11,7 @@ Les séances auxquelles les dossiers doivent avoir été rendus sont indiquées 
 
 Un dossier doit être rendu sous la forme d’un seul document PDF dont le nom doit commencer par un chiffre, correspondant au numéro du dossier (1 pour le dossier de cadrage, et ainsi de suite), suivi d’link:https://fr.wikipedia.org/wiki/Espace_(typographie)[une] espace, d’un trait-d’union, d’une espace, et du nom de votre équipe. Par exemple : `1 - Super Toto.pdf`. La présentation finale compte comme un dossier. Elle donc doit aussi être au format PDF, sauf raison valable approuvée par l’enseignant au préalable, et être rendue à temps.
 
-Chaque groupe doit se créer un dépôt GitHub Classroom en cliquant https://classroom.github.com/g/A0Q2ZHc0[ici]. Vous y déposerez vos dossiers au fur et à mesure de l’année (et rien d’autre). Pour envoyer le fichier, initialement, cliquez sur `uploading an existing file` dans votre dépôt; après, voir https://help.github.com/articles/adding-a-file-to-a-repository/[ici]. Vous déposez sur la branche `master`. En fin d’année, votre dépôt devra donc contenir exactement cinq fichiers. Vous pouvez écraser un fichier si vous voulez déposer une nouvelle version avant la date limite, il suffit de déposer un fichier du même nom.
+Chaque groupe doit se créer un dépôt GitHub Classroom en cliquant https://classroom.github.com/g/A0Q2ZHc0[ici]. Vous y déposerez vos dossiers au fur et à mesure de l’année (et rien d’autre). Pour envoyer le fichier, initialement, cliquez sur `uploading an existing file` dans votre dépôt ; après, voir https://help.github.com/articles/adding-a-file-to-a-repository/[ici]. Vous déposez sur la branche `master`. En fin d’année, votre dépôt devra donc contenir exactement cinq fichiers. Vous pouvez écraser un fichier si vous voulez déposer une nouvelle version avant la date limite, il suffit de déposer un fichier de même nom.
 
 == Instructions de format
 Les exigences ci-dessous ne remplacent pas, mais complémentent, les instructions dans l’énoncé.
@@ -24,6 +24,7 @@ Une des vertus attendues de bons analystes est la précision. Tout manquement au
 
 == Planning
 S1 
+
 * Gestion de projet : https://github.com/oliviercailloux/SI2/raw/master/Cours_ISI2_1819.pdf[diapos]
 * Présentation du https://github.com/oliviercailloux/SI2/tree/master/Énoncé[projet]
 * Répartition des 26 étudiants en groupes de 4 (max 2 groupes de 5) et choix des noms des équipes
@@ -32,35 +33,44 @@ S1
 * Vous êtes censés être présents
 
 S2
+
 * Travail sur Dossier de Cadrage 
 * Travail sur Dossier de Spécifications Générale [SG]
 
 S3
+
 * *Dossier de Cadrage* terminé
 * Travail sur SG
 
 S4
+
 * Travail sur SG
 
 S5
+
 * *SG* terminé
 * Remise Orientations Spécifications Fonctionnelles Détaillées
 * Travail sur Dossier de Spécification Détaillée [SD]
 
 S6
+
 * Travail sur SD
 
 S7
+
 * Travail sur SD
 
 S8
+
 * Travail sur SD
 
 S9
+
 * *SD* terminé
 * Travail sur Dossier Entrepôt [DWH]
 
 S10
+
 * *DWH* terminé
 * *Présentation* terminée
 * Soutenances
