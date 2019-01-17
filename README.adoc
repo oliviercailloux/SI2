@@ -4,7 +4,7 @@ Licence L3 classique, MIAGE, Paris-Dauphine, TD n° 2
 
 L’link:https://www.ent.dauphine.fr/annuaire/index.php?param0=fiche&param1=ocailloux[enseignant].
 
-== Instructions de remise
+== Remise
 Ces instructions de remise remplacent celles contenues dans l’énoncé. Il ne faut donc pas m’envoyer vos dossiers par e-mail ni m’en remettre des copies papier.
 
 Les séances auxquelles les dossiers doivent avoir été rendus sont indiquées dans le planning. Le dossier doit avoir été rendu avant la fin de la veille de la séance en question. Par exemple, si la séance où le dossier doit être terminé a lieu le lundi 21 janvier, il faut avoir rendu le dossier avant dimanche 20 janvier, 23h59 + 1 min. La pénalité est de 0,5 points / 40 par heure de retard (toute heure entamée est comptée).
@@ -13,7 +13,7 @@ Un dossier doit être rendu sous la forme d’un seul document PDF dont le nom d
 
 Chaque groupe doit se créer un dépôt GitHub Classroom en cliquant https://classroom.github.com/g/A0Q2ZHc0[ici]. Vous y déposerez vos dossiers au fur et à mesure de l’année (et rien d’autre). Pour envoyer le fichier, initialement, cliquez sur `uploading an existing file` dans votre dépôt ; après, voir https://help.github.com/articles/adding-a-file-to-a-repository/[ici]. Vous déposez sur la branche `master`. En fin d’année, votre dépôt devra donc contenir exactement cinq fichiers. Vous pouvez écraser un fichier si vous voulez déposer une nouvelle version avant la date limite, il suffit de déposer un fichier de même nom.
 
-== Instructions de format
+== Format
 Les exigences ci-dessous ne remplacent pas, mais complémentent, les instructions dans l’énoncé.
 
 Les dossiers PDF (sauf la présentation) doivent contenir des signets PDF référençant les numéros de page corrects (https://screenshots.debian.net/screenshots/000/015/840/large.png[exemple]), reflétant la table des matières qui doit par ailleurs être également incluse dans le document comme demandé dans le document d’énoncé.
@@ -21,6 +21,9 @@ Les dossiers PDF (sauf la présentation) doivent contenir des signets PDF réfé
 Attention à ne pas confondre des notations UML (par exemple, une ligne discontinue n’a pas la même signification qu’une ligne continue). Vos diagrammes doivent de plus être cohérents et non ambigus.
 
 Une des vertus attendues de bons analystes est la précision. Tout manquement aux exigences, même sur la forme et même si elles vous semblent triviales, sera sanctionné.
+
+== Contenu
+Vous êtes priés d’utiliser des diagrammes UML partout où il est possible de remplacer ou complémenter du texte par des diagrammes appropriés, même lorsque ce n’est pas expressément demandé dans l’énoncé. Un diagramme omis vous coutera la moitié des points, à contenu informatif égal.
 
 == Cours
 Pour le bon fonctionnement du travail en équipe, votre présence à ce cours est obligatoire. Les absences seront sanctionnées.
