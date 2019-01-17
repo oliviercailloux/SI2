@@ -22,15 +22,17 @@ Attention à ne pas confondre des notations UML (par exemple, une ligne disconti
 
 Une des vertus attendues de bons analystes est la précision. Tout manquement aux exigences, même sur la forme et même si elles vous semblent triviales, sera sanctionné.
 
-== Planning
+== Cours
+Pour le bon fonctionnement du travail en équipe, votre présence à ce cours est obligatoire. Les absences seront sanctionnées.
+
+Vous êtes censés consulter vos e-mails Dauphine fréquemment (pour annonces via MyCourse).
+
 S1 
 
 * Gestion de projet : https://github.com/oliviercailloux/SI2/raw/master/Cours_ISI2_1819.pdf[diapos]
 * Présentation du https://github.com/oliviercailloux/SI2/tree/master/Énoncé[projet]
 * Répartition des 26 étudiants en groupes de 4 (max 2 groupes de 5) et choix des noms des équipes
 * Travail sur Dossier de Cadrage
-* Vous êtes censés consulter vos e-mails Dauphine (pour annonces via MyCourse)
-* Vous êtes censés être présents
 
 S2
 
