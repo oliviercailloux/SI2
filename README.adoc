@@ -18,12 +18,12 @@ Les exigences ci-dessous ne remplacent pas, mais complémentent, les instruction
 
 Les dossiers PDF (sauf la présentation) doivent contenir des signets PDF référençant les numéros de page corrects (https://screenshots.debian.net/screenshots/000/015/840/large.png[exemple]), reflétant la table des matières qui doit par ailleurs être également incluse dans le document comme demandé dans le document d’énoncé.
 
-Attention à ne pas confondre des notations UML (par exemple, une ligne discontinue n’a pas la même signification qu’une ligne continue). Vos diagrammes doivent de plus être cohérents et non ambigus.
-
 Une des vertus attendues de bons analystes est la précision. Tout manquement aux exigences, même sur la forme et même si elles vous semblent triviales, sera sanctionné.
 
 == Contenu
 Vous êtes priés d’utiliser des diagrammes UML partout où il est possible de remplacer ou complémenter du texte par des diagrammes appropriés, même lorsque ce n’est pas expressément demandé dans l’énoncé. Un diagramme omis vous coutera la moitié des points, à contenu informatif égal.
+
+Attention à ne pas confondre des notations UML (par exemple, une ligne discontinue n’a pas la même signification qu’une ligne continue). Vos diagrammes doivent de plus être cohérents et non ambigus.
 
 == Cours
 Pour le bon fonctionnement du travail en équipe, votre présence à ce cours est obligatoire. Les absences seront sanctionnées.
