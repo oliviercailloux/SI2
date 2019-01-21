@@ -26,6 +26,10 @@ Vous êtes priés d’utiliser des diagrammes UML partout où il est possible de
 
 Attention à ne pas confondre des notations UML (par exemple, une ligne discontinue n’a pas la même signification qu’une ligne continue). Vos diagrammes doivent de plus être cohérents et non ambigus.
 
+M’interroger au sujet d’informations manquantes ou peu claires dans l’énoncé ; noter dans vos dossiers ce que je vous ai dis (seulement à cette condition, vous avez le droit d’utiliser ces informations pour vos déductions).
+
+Le diagramme de contexte demandé peut être remplacé par un usage approprié de diagrammes UML ayant le même objectif.
+
 == Cours
 Pour le bon fonctionnement du travail en équipe, votre présence à ce cours est obligatoire. Les absences seront sanctionnées. Tout étudiant non présent pendant une partie du travail de son groupe perd des points en proportion de son temps d’absence sur le dossier concerné (exemple : 1/3 des points perdus si absent 1/3 du temps).
 
