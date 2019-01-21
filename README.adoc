@@ -28,11 +28,12 @@ Attention à ne pas confondre des notations UML (par exemple, une ligne disconti
 == Cours
 Pour le bon fonctionnement du travail en équipe, votre présence à ce cours est obligatoire. Les absences seront sanctionnées.
 
-Vous êtes censés consulter vos e-mails Dauphine fréquemment (pour annonces via MyCourse).
+Vous êtes censés consulter vos e-mails Dauphine fréquemment et vous assurer que vous recevez les annonces via MyCourse (m’envoyer un e-mail sinon).
 
 S1 
 
 * Gestion de projet : https://github.com/oliviercailloux/SI2/raw/master/Cours_ISI2_1819.pdf[diapos]
+** https://www.lamsade.dauphine.fr/~marru/guide-documentation-utilisateur.pdf[Document] CNRS Mise en page et conseils rédactionnels pour la documentation utilisateur des produits
 * Présentation du https://github.com/oliviercailloux/SI2/tree/master/Énoncé[projet]
 * Répartition des 26 étudiants en groupes de 4 (max 2 groupes de 5) et choix des noms des équipes
 * Travail sur Dossier de Cadrage
