@@ -27,7 +27,7 @@ Vous êtes priés d’utiliser des diagrammes UML partout où il est possible de
 Attention à ne pas confondre des notations UML (par exemple, une ligne discontinue n’a pas la même signification qu’une ligne continue). Vos diagrammes doivent de plus être cohérents et non ambigus.
 
 == Cours
-Pour le bon fonctionnement du travail en équipe, votre présence à ce cours est obligatoire. Les absences seront sanctionnées.
+Pour le bon fonctionnement du travail en équipe, votre présence à ce cours est obligatoire. Les absences seront sanctionnées. Tout étudiant non présent pendant une partie du travail de son cours perd une fraction linéaire des points dépendant de son temps d’absence (exemple : 1/3 des points perdus si absent 1/3 du temps sur un dossier donné).
 
 Vous êtes censés consulter vos e-mails Dauphine fréquemment et vous assurer que vous recevez les annonces via MyCourse (m’envoyer un e-mail sinon).
 
