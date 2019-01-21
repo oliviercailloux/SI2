@@ -1,5 +1,5 @@
 = Ingénierie des systèmes d'information 2
-:toc:
+:toc: preamble
 
 Licence L3 classique, MIAGE, Paris-Dauphine, TD n° 2
 
