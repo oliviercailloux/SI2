@@ -57,7 +57,7 @@ S4
 
 * Travail sur SG
 
-S5
+S5 (18 février 2019)
 
 * *SG* terminé
 * Remise Orientations Spécifications Fonctionnelles Détaillées
@@ -75,12 +75,12 @@ S8
 
 * Travail sur SD
 
-S9
+S9 (1 avril 2019)
 
 * *SD* terminé
 * Travail sur Dossier Entrepôt [DWH]
 
-S10
+S10 (8 avril 2019)
 
 * *DWH* terminé
 * *Présentation* terminée
