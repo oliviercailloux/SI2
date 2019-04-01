@@ -85,6 +85,6 @@ S10 (8 avril 2019)
 * *DWH* terminé
 * *Présentation* terminée
 * Soutenances
-** 19 minutes par groupe + 5 minutes de questions + 2 minutes de transition
+** 22 minutes par groupe + 5 minutes de questions + 3 minutes de transition
 ** Bonus pour questions pertinentes et non dérangeantes
 
